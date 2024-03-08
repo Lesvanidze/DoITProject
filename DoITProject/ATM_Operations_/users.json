@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Name": "Levan",
+    "LastName": "Svanidze",
+    "PersonalNumber": "12345678901",
+    "Password": "8545",
+    "Balance": 0.0
+  },
+  {
+    "Id": 2,
+    "Name": "Giorgi",
+    "LastName": "Giorgadze",
+    "PersonalNumber": "01010101010",
+    "Password": "9917",
+    "Balance": 0.0
+  },
+  {
+    "Id": 3,
+    "Name": "Nini",
+    "LastName": "Ninidze",
+    "PersonalNumber": "12345678902",
+    "Password": "9157",
+    "Balance": 0.0
+  }
+]
